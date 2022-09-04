@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiURL: "https://localhost:44316",
-  title: 'Frontend Usuarios Confitec DEV'
+  apiURL: "http://ultimateweb-001-site1.etempurl.com/",
+  title: 'Frontend Usuarios Confitec PROD'
 };
