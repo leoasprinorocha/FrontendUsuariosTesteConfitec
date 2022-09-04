@@ -1,0 +1,45 @@
+.menuModal {
+  text-align: center;
+  padding: 0!important;
+}
+
+.menuModal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.menuModal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.input_form{
+  margin-top: 15px;
+  width: 300px;
+}
+
+.input_field{
+  width: 300px;
+}
+
+.btncadastro{
+  background-color: green;
+  border-radius: 15px;
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+  margin-left: 12px;
+}
+
+.btncancela{
+  background-color: red;
+  border-radius: 15px;
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+  margin-left: 30px;
+}
